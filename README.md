@@ -14,8 +14,8 @@ Currently not a developer, scientist or something, but maybe someday will.
 
 ### Informations
 
+ - My QQ: 1320061044
  - [My Blog](https://peanuttang.netlify.app/)
- - [My QQ](tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1320061044)
  - [My E-mail](mailto:1320061044@qq.com)
  - [My Codeforces Account](http://codeforces.com/profile/Peanut.Tang)
  - [My Atcoder Account](https://atcoder.jp/users/Peanut_Tang)
