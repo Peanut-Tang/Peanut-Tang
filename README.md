@@ -2,7 +2,7 @@
 
 ### Proflie
 
-My name is Shengtang Huang, an undergraduate student at the University of Science and Technology of China (short for USTC). By translating my nickname into Chinese, you can get my real name. I'm interested in informatics, ACGN and sports.
+My name is Shengtang Huang, an undergraduate student at University of Science and Technology of China (short for USTC). By translating my nickname into Chinese, you can get my real name. I'm interested in informatics, ACGN and sports.
 
 Currently not a developer, scientist or something, but maybe someday will.
 
