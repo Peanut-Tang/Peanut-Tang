@@ -2,13 +2,14 @@
 
 ### Proflie
 
-My name is Shengtang Huang, an OIer studying at the Affiliate High School of Fujian Normal University(short for AHSFNU). By translating my nickname into Chinese, you can get my real name. I likes ACGN and sports.
+My name is Shengtang Huang, an ndergraduate student at the University of Science and Technology of China (short for USTC). By translating my nickname into Chinese, you can get my real name. I'm interested in informatics, ACGN and sports.
 
 Currently not a developer, scientist or something, but maybe someday will.
 
 ### Educations
 
- - The Affiliate High School of Fujian Normal University (Grade Jingxing, 2020 ~ now)
+ - University of Science and Technology of China (Undergraduate, 2022 ~ now)
+ - The Affiliate High School of Fujian Normal University (Grade Jingxing, 2020 ~ 2022)
  - Fuzhou Shidai Middle School (2017 ~ 2020)
  - Fuzhou Gulou No.1 Central Primary School (2011 ~ 2017)
 
